@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+immport java.util.Scanner;
 
 public class Exercicio {
 

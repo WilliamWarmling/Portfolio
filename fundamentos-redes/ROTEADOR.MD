@@ -1,2 +1,0 @@
-### Desenhe três redes interligadas por um roteador, as três redes devem estar em redes diferentes, os IPs devem ser escolhidos por vocês, inclusive a máscara pode ser escolhida também. Para cada rede encontre o endereço de rede, o endereço de broadcast, o nº do dispositivo e a quantidade de dispositivos que cabem na rede.
-![image](https://user-images.githubusercontent.com/102593872/186813450-df0a6dd1-ac59-4159-bee6-378fb8995bfc.png)
